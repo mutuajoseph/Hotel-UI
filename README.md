@@ -1,6 +1,8 @@
 # Hotel-UI
 HTML &amp; CSS
 
+A simple HTML and CSS UI for a hotel. Did not use flexbox or the grid display property 
+
 ## A Preview of how the UI looks like
 ![Screenshot from 2020-07-11 18-04-52](https://user-images.githubusercontent.com/29919486/87227376-2ff6a400-c3a3-11ea-96cf-30ec27582c31.png)
 
